@@ -1,0 +1,3 @@
+# Aplikasi hanya memakai library bawaan Python.
+# pytest hanya dibutuhkan untuk menjalankan unit test.
+pytest>=7.0
